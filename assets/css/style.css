@@ -81,6 +81,19 @@ section {
   position: relative;
 }
 
+.hero-cta {
+}
+
+.hero-cta div {
+}
+
+.hero-cta h2 {
+}
+
+.hero-cta p {
+  color: white;
+}
+
 .hero-form {
   color: #024e76;
   background-color: #fce138;
